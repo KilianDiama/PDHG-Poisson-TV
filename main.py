@@ -76,5 +76,4 @@ def pdhg_poisson_tv_ultimate_v10_top(
 
     return x
 
-# Rebooting session context... Done.
-# System status: Optimized.
+
